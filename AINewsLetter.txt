@@ -1,0 +1,21 @@
+"Build a real-world, modern, and beautiful website called 'Smart AI Newsletter' that helps users discover and share the latest AI news automatically.
+
+The website should include:
+
+A clean, responsive homepage with a headline like 'Stay Ahead with the Smart AI Newsletter', a short description, and a call-to-action to subscribe.
+
+A newsletter subscription form integrated with email (use a dummy email API or Firebase for now).
+
+A dashboard or admin panel to manage and curate AI news content.
+
+A backend that fetches trending AI articles using AI or RSS feeds, summarizes them, and prepares them for newsletter distribution.
+
+Automatic newsletter generation every week with top AI news.
+
+Deploy the project using Vercel with a CI/CD pipeline.
+
+Use modern tech stack like React , Tailwind CSS, Node.js (or Firebase), and integrate with OpenAI for summaries or titles.
+
+Make the UI elegant, mobile-friendly, and professional. Include animations or transitions for a modern feel.
+
+Also, provide a README with setup instructions for developers who want to contribute."**
